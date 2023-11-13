@@ -20,6 +20,7 @@
         <tbody>
             <?php
                 require './config/db.php';
+                $base_url = "http://localhost/tugas-pertemuan-7";
 
                 $products = mysqli_query($db_connect,"SELECT * FROM products");
                 $no = 1;
@@ -31,7 +32,7 @@
                     <td><?=$row['name'];?></td>
                     <td><?=$row['price'];?></td>
                     <!-- <td><img src="<?=$row['image'];?>" width="100"></td> -->
-                    <td><a href="<?=$row['image'];?>" target="_blank">unduh</a></td>
+                    <td><a href="<?php echo $base_url ?> <?=$row['image'];?>" target="_blank">unduh</a></td>
                     <td>
                         <a href="./backend/edit.php?id=<?=$row['id'];?>">Edit</a>
                         <a href="./backend/delete.php?id=<?=$row['id'];?>">Hapus</a>
