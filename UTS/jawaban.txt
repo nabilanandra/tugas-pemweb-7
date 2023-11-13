@@ -1,1 +1,7 @@
+Nama: Nabila Nandra Althaf
+NIM: 22416255201206
+Kelas: IF22A
 
+1. Dalam pengembangan aplikasi, "framework" mengacu pada kerangka kerja perangkat lunak yang menyediakan struktur dan panduan untuk membangun dan mengembangkan aplikasi. Framework menyediakan kumpulan alat, perpustakaan, aturan, dan konvensi yang membantu pengembang menyusun kode dengan cara tertentu. Tujuan utama dari menggunakan framework adalah untuk mempercepat proses pengembangan, meningkatkan konsistensi, dan mengurangi kerumitan.
+
+2. 
