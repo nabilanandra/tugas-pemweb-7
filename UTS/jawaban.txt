@@ -4,4 +4,27 @@ Kelas: IF22A
 
 1. Dalam pengembangan aplikasi, "framework" mengacu pada kerangka kerja perangkat lunak yang menyediakan struktur dan panduan untuk membangun dan mengembangkan aplikasi. Framework menyediakan kumpulan alat, perpustakaan, aturan, dan konvensi yang membantu pengembang menyusun kode dengan cara tertentu. Tujuan utama dari menggunakan framework adalah untuk mempercepat proses pengembangan, meningkatkan konsistensi, dan mengurangi kerumitan.
 
-2. 
+2. 2.1 KOPERASI SIMPAN PINJAM
+
+2.2 - MUHAMMAD ILMAL AULIA
+        (JODDESK): ditugaskan Mengerjakan pada bagian backend.
+    - RINDI NABILA SEPTIANI
+        (JODDESK): saya ditugaskan untuk mengerjakan analisis.
+    - NABILA NANDRA ALTHAF
+        (JODDESK): beliau  ditugaskan untuk mengerjakan desain/frontend.
+
+2.3 Menurut keterangan dari Narasumber Ketua Koperasi, koperasi sudah memiliki system namun belum dijalankan. Tetapi ada suatu kondisi dimana koperasi tersebut ingin menambahkan sebuah menu untuk simpan pinjam dan menambahkan iklan di halaman utama.
+Berdasarkan keterangan narasumber kami berencana untuk membuat sistem website yang 
+berfungsi untuk:
+
+    1. Membuat sistem yang terbagi menjadi dua hak akses, yaitu hak akses user untuk member dan hak akses admin untuk petugas koperasi.
+    2. Akun dengan hak akses user dapat digunakan untuk : 
+        a. Melihat dan melakukan simpan pinjam.
+
+    3. Akun dengan hak akses admin dapat digunakan untuk:
+        a. Menginput data member dan rekap keuangan data member.
+        b. Melihat,mencari,dan memfilter daftar member.
+
+    4. Membuat beberapa fitur / menu baik untuk admin bahkan user contohnya seperti 
+        deposito.
+    5. Member/User bisa melihat iklan produk/barang dari koperasi tersebut
